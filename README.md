@@ -26,4 +26,5 @@
 
 ### [Fundamentals](Python/Fundamentals)
 
+-   [String Methods](Python/Fundamentals/String%20Methods.py)
 -   [Variables](Python/Fundamentals/Variables.py)
