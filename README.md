@@ -28,3 +28,11 @@
 
 -   [String Methods](Python/Fundamentals/String%20Methods.py)
 -   [Variables](Python/Fundamentals/Variables.py)
+
+### [Functions](Python/Functions/)
+
+### [Collections](Python/Collections/)
+
+### [Objects](Python/Objects/)
+
+### [Advanced](Python/Advanced/)
