@@ -25,3 +25,5 @@
 ## Section Overview
 
 ### [Fundamentals](Python/Fundamentals)
+
+-   [Variables](Python/Fundamentals/Variables.py)
