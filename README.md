@@ -27,12 +27,21 @@
 ### [Fundamentals](Python/Fundamentals)
 
 -   [String Methods](Python/Fundamentals/String%20Methods.py)
+-   [Type Cast](Python/Fundamentals/Type%20Cast.py)
 -   [Variables](Python/Fundamentals/Variables.py)
 
 ### [Functions](Python/Functions/)
 
+Coming Soon
+
 ### [Collections](Python/Collections/)
+
+Coming Soon
 
 ### [Objects](Python/Objects/)
 
+Coming Soon
+
 ### [Advanced](Python/Advanced/)
+
+Coming Soon
