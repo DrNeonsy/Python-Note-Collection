@@ -27,6 +27,7 @@
 ### [Fundamentals](Python/Fundamentals)
 
 -   [If Statement](Python/Fundamentals/If%20Statements.py)
+-   [Logical Operators](Python/Fundamentals/Logical%20Operators.py)
 -   [Math Functions](Python/Fundamentals/Math%20Functions.py)
 -   [String Methods](Python/Fundamentals/String%20Methods.py)
 -   [String Slicing](Python/Fundamentals/String%20Slicing.py)

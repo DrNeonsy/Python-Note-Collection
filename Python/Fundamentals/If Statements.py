@@ -4,7 +4,7 @@
 # There Are Operations Like:
 
 # < Less Than | > Greater Than | == Equal To |!= Not Equal To
-# >= Greater Than Or Equal To | <= Less Than Or Equal To |!= Not Equal To | == Equal To
+# >= Greater Than Or Equal To | <= Less Than Or Equal To
 
 # In Most Languages, You Use {} To Define A Block But In Python You Use Indentation And ":"
 
