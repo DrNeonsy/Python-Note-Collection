@@ -35,6 +35,7 @@
 -   [Conditions](Python/Fundamentals/Conditions)
     -   [If Statement](Python/Fundamentals/Conditions/If%20Statements.py)
     -   [Logical Operators](Python/Fundamentals/Conditions/Logical%20Operators.py)
+    -   [Match Case](Python/Fundamentals/Conditions/Match%20Case.py)
     
 -   [Loops](Python/Fundamentals/Loops)
     -   [While Loop](Python/Fundamentals/Loops/While%20Loop.py)
