@@ -38,6 +38,10 @@ number += 10
 # print("Number: " + number) | You Cannot "Concatenate" A Number With A String
 print("Number: " + str(number))
 
+# Note: You Can Use A "," Comma If You Don't Want To Cast
+
+# So Let's Imagine We Have A Variable Called "price" | print("Your Price Is: ", price) # Would Work
+
 # As You Can See A String Is Part Of The 'str' "Class" And The str() Is Called A Type Cast
 # Because We Cast The Number To A String | Another Term Would Be To Convert A Number To A String
 
