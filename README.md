@@ -28,6 +28,7 @@
 
 -   [Math Functions](Python/Fundamentals/Math%20Functions.py)
 -   [String Methods](Python/Fundamentals/String%20Methods.py)
+-   [String Slicing](Python/Fundamentals/String%20Slicing.py)
 -   [Type Cast](Python/Fundamentals/Type%20Cast.py)
 -   [User Input](Python/Fundamentals/User%20Input.py)
 -   [Variables](Python/Fundamentals/Variables.py)
