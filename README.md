@@ -26,14 +26,22 @@
 
 ### [Fundamentals](Python/Fundamentals)
 
--   [If Statement](Python/Fundamentals/If%20Statements.py)
--   [Logical Operators](Python/Fundamentals/Logical%20Operators.py)
--   [Math Functions](Python/Fundamentals/Math%20Functions.py)
--   [String Methods](Python/Fundamentals/String%20Methods.py)
--   [String Slicing](Python/Fundamentals/String%20Slicing.py)
--   [Type Cast](Python/Fundamentals/Type%20Cast.py)
--   [User Input](Python/Fundamentals/User%20Input.py)
--   [Variables](Python/Fundamentals/Variables.py)
+-   [Basics](Python/Fundamentals/Basics)
+    -   [Math Functions](Python/Fundamentals/Basics/Math%20Functions.py)
+    -   [Type Cast](Python/Fundamentals/Basics/Type%20Cast.py)
+    -   [User Input](Python/Fundamentals/Basics/User%20Input.py)
+    -   [Variables](Python/Fundamentals/Basics/Variables.py)
+    
+-   [Conditions](Python/Fundamentals/Conditions)
+    -   [If Statement](Python/Fundamentals/Conditions/If%20Statements.py)
+    -   [Logical Operators](Python/Fundamentals/Conditions/Logical%20Operators.py)
+    
+-   [Loops](Python/Fundamentals/Loops)
+    -   [While Loop](Python/Fundamentals/Loops/While%20Loop.py)
+    
+-   [Strings](Python/Fundamentals/Strings)
+    -   [String Methods](Python/Fundamentals/Strings/String%20Methods.py)
+    -   [String Slicing](Python/Fundamentals/Strings/String%20Slicing.py)
 
 ### [Functions](Python/Functions/)
 
