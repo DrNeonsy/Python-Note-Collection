@@ -18,21 +18,13 @@ print(txt.upper())  # This Will Convert The Whole String To Upper Case
 
 print(txt.lower())  # This Will Convert The Whole String To Lower Case
 
-print(
-    "Is This String A Number: " + str(txt.isdigit())
-)  # This Will Check If The String Is A Number
+print("Is This String A Number: " + str(txt.isdigit()))  # This Will Check If The String Is A Number
 
-print(
-    "Only Characters In String: " + str(txt.isalpha())
-)  # This Will Check If The String Is A Sequence Letter
+print("Only Characters In String: " + str(txt.isalpha()))  # This Will Check If The String Is A Sequence Letter
 # In This Case, It Will Return False Because We Also Have A "White"Space In There
 
-print(
-    "How Many 'i' In This String: " + str(txt.count("i"))
-)  # This Will Count The Number Of Characters You Specify In The String
+print("How Many 'i' In This String: " + str(txt.count("i")))  # This Will Count The Number Of Characters You Specify In The String
 
-print(
-    txt.replace("i", "x")
-)  # This Will Replace The Characters You Specified With The Second "Parameter"
+print(txt.replace("i", "x"))  # This Will Replace The Characters You Specified With The Second "Parameter"
 
 print(txt * 5)  # This Will Multiply The String With The Number You Specified

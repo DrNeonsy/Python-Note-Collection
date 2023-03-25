@@ -38,6 +38,7 @@
     -   [Match Case](Python/Fundamentals/Conditions/Match%20Case.py)
     
 -   [Loops](Python/Fundamentals/Loops)
+    -   [Loop Control Statements](Python/Fundamentals/Loops/Loop%20Control%20Statements.py)
     -   [For Loop](Python/Fundamentals/Loops/For%20Loop.py)
     -   [While Loop](Python/Fundamentals/Loops/While%20Loop.py)
     

@@ -5,9 +5,7 @@
 
 text = "Hello World"
 
-print(
-    text[0:5]
-)  # Remember That Indexes Are "Zero Based" They Start From 0 For The First "Instance"
+print(text[0:5])  # Remember That Indexes Are "Zero Based" They Start From 0 For The First "Instance"
 
 # You May Assume That You Need "4" To Reach The "o" But The First Argument Is Inclusive And The Second Exclusive
 
@@ -47,9 +45,7 @@ web1 = "https://www.google.com"
 web2 = "https://www.bing.com"
 web3 = "https://www.microsoft.com"
 
-slicing = slice(
-    12, -4
-)  # So The Domain Starts At Index 12 And Ends At 4 From The Right Side
+slicing = slice(12, -4)  # So The Domain Starts At Index 12 And Ends At 4 From The Right Side
 
 print(web1[slicing])
 print(web2[slicing])
