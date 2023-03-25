@@ -31,17 +31,14 @@
     -   [Type Cast](Python/Fundamentals/Basics/Type%20Cast.py)
     -   [User Input](Python/Fundamentals/Basics/User%20Input.py)
     -   [Variables](Python/Fundamentals/Basics/Variables.py)
-    
 -   [Conditions](Python/Fundamentals/Conditions)
     -   [If Statement](Python/Fundamentals/Conditions/If%20Statements.py)
     -   [Logical Operators](Python/Fundamentals/Conditions/Logical%20Operators.py)
     -   [Match Case](Python/Fundamentals/Conditions/Match%20Case.py)
-    
 -   [Loops](Python/Fundamentals/Loops)
-    -   [Loop Control Statements](Python/Fundamentals/Loops/Loop%20Control%20Statements.py)
+    -   [Control Statements](Python/Fundamentals/Loops/Control%20Statements.py)
     -   [For Loop](Python/Fundamentals/Loops/For%20Loop.py)
     -   [While Loop](Python/Fundamentals/Loops/While%20Loop.py)
-    
 -   [Strings](Python/Fundamentals/Strings)
     -   [String Methods](Python/Fundamentals/Strings/String%20Methods.py)
     -   [String Slicing](Python/Fundamentals/Strings/String%20Slicing.py)
@@ -52,7 +49,7 @@ Coming Soon
 
 ### [Collections](Python/Collections/)
 
-Coming Soon
+-   [List](Python/Collections/List.py)
 
 ### [Objects](Python/Objects/)
 

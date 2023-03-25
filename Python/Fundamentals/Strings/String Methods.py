@@ -2,7 +2,8 @@
 
 txt = "This Is A String"
 
-print("Length Of String: " + str(len(txt)))  # This Will Return The Length Of The String
+# This Will Return The Length Of The String
+print("Length Of String: " + str(len(txt)))
 
 print("The Letter Or String 's' Is Located At Index: " + str(txt.find("s")))
 print("The Letter Or String 'S' Is Located At Index: " + str(txt.find("S")))
@@ -18,13 +19,17 @@ print(txt.upper())  # This Will Convert The Whole String To Upper Case
 
 print(txt.lower())  # This Will Convert The Whole String To Lower Case
 
-print("Is This String A Number: " + str(txt.isdigit()))  # This Will Check If The String Is A Number
+# This Will Check If The String Is A Number
+print("Is This String A Number: " + str(txt.isdigit()))
 
-print("Only Characters In String: " + str(txt.isalpha()))  # This Will Check If The String Is A Sequence Letter
+# This Will Check If The String Is A Sequence Letter
+print("Only Characters In String: " + str(txt.isalpha()))
 # In This Case, It Will Return False Because We Also Have A "White"Space In There
 
-print("How Many 'i' In This String: " + str(txt.count("i")))  # This Will Count The Number Of Characters You Specify In The String
+# This Will Count The Number Of Characters You Specify In The String
+print("How Many 'i' In This String: " + str(txt.count("i")))
 
-print(txt.replace("i", "x"))  # This Will Replace The Characters You Specified With The Second "Parameter"
+# This Will Replace The Characters You Specified With The Second "Parameter"
+print(txt.replace("i", "x"))
 
 print(txt * 5)  # This Will Multiply The String With The Number You Specified
