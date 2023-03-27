@@ -13,5 +13,11 @@ print(colors[0])  # Prints The First List In The Collection
 # Prints The First Item In The First List In The Collection
 print(colors[0][0])
 
+# Len Returns The Number Of Lists In The Collection
+print(len(colors))
+
+# Therefore To Get The Number Of Items In The First List We Must Use The Len Function On An Index
+print(len(colors[0]))
+
 # So Accessing An Element Still Works The Same
 # But In This Case We Have To Specify The List And The Item With 2 Indexes
