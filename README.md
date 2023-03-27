@@ -51,6 +51,7 @@ Coming Soon
 
 -   [2D List](Python/Collections/2D%20List.py)
 -   [List](Python/Collections/List.py)
+-   [Set](Python/Collections/Set.py)
 -   [Tuple](Python/Collections/Tuple.py)
 -   [Unpacking](Python/Collections/Unpacking.py)
 
