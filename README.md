@@ -49,6 +49,7 @@ Coming Soon
 
 ### [Collections](Python/Collections/)
 
+-   [2D List](Python/Collections/2D%20List.py)
 -   [List](Python/Collections/List.py)
 
 ### [Objects](Python/Objects/)
