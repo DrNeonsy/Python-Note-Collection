@@ -2,11 +2,7 @@
 
 ### This Repo Is A Collection Of The Knowledge I've Gathered Within The World Of Python
 
-![Python](https://img.shields.io/badge/-Python-d9c10f)
-
-## Important
-
-### While This Is A Public Repository, It's Also A Personal Note Collection And I Already Have Some Experience In Different Languages, So While I'm Trying To Make It As Understandable As Possible It Well... Might Just Not Be 😄
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 
 ## How To Use
 
@@ -50,6 +46,7 @@ Coming Soon
 ### [Collections](Python/Collections/)
 
 -   [2D List](Python/Collections/2D%20List.py)
+-   [Dictionary](Python/Collections/Dictionary.py)
 -   [List](Python/Collections/List.py)
 -   [Set](Python/Collections/Set.py)
 -   [Tuple](Python/Collections/Tuple.py)
